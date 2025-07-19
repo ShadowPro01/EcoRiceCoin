@@ -1,0 +1,9 @@
+{
+  "name": "EcoRise Coin",
+  "symbol": "ERS",
+  "decimals": 18,
+  "description": "EcoRise Coin supports transparent eco-initiatives via blockchain-based donations.",
+  "logo": "https://ipfs.io/ipfs/bafkreih5gjj3okptgadqhfsholxe3y6vnbzokzg6em2noiznvgb6az42sa",
+  "website": "https://example.com",
+  "status": "active"
+}
